@@ -52,4 +52,7 @@ python main.py
 Here’s what the game looks like in action:
 
 
+![US States Game](Screenshot.png)
+
+
 
