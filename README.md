@@ -37,18 +37,17 @@ Built using **Turtle Graphics** and **Pandas**, this game lets players test thei
    git clone https://github.com/your-username/us-states-game.git
    cd us-states-game
 
-Install the required dependencies:
+## Install the required dependencies:
 
 pip install pandas
 
-
 (Turtle comes pre-installed with Python.)
 
-Run the game:
+## Run the game:
 
 python main.py
 
-📷 Screenshot
+## 📷 Screenshot
 
 Here’s what the game looks like in action:
 
